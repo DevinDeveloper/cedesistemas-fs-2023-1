@@ -21,5 +21,9 @@ export const MenuIconContainer = styled.div`
   svg{
     font-size: 1.6em;
   }
+  &:hover{
+    color:#ccc;
+    cursor: pointer;
+  }
 `;
 
